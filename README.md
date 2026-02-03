@@ -23,7 +23,7 @@
 <div align="left">
   <a href="https://discord.com/users/669540654732279837" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&style=for-the-badge" height="35" />
-  <a href="https://ares-34.github.io/Me/" target="_blank">
+  <a href="https://ares-34.github.io/My-Card/" target="_blank">
     <img src="https://img.shields.io/badge/My_Website-1A1B27?style=for-the-badge&logo=icloud&logoColor=white" alt="Profile Card" />
   </a>
 
